@@ -1,6 +1,6 @@
 # 🛒 Carrinho de Compras - Back-end em JavaScript
 
-Este é um projeto de simulação de um **carrinho de compras**, desenvolvido com foco exclusivo no **back-end** utilizando **JavaScript puro**. Ele permite adicionar, remover, listar produtos e calcular o total da compra, sendo ideal para treinar lógica de programação, manipulação de arrays e controle de fluxo sem depender de interface gráfica (front-end).
+Este é um projeto de simulação de um **carrinho de compras**, desenvolvido com foco exclusivo no **back-end** utilizando **JavaScript puro**. Ele permite adicionar, remover, listar produtos e calcular o total da compra, sendo ideal para treinar lógica de programação, manipulação de arrays e controle de fluxo sem depender de interface gráfica (front-end). Projeto realizado para estudos.
 
 ---
 
